@@ -1,4 +1,4 @@
-# iran-iplist
+# لیست آی پی های ایران برای استفاده در سیتم عامل openwrt
 The IP List of iran to bypass in passwall
 
 Go to Service Passwall Rule List
